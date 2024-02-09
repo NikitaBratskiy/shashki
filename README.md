@@ -1,1 +1,1 @@
-[# shashki](https://nikitabratskiy.github.io/shashki/)
+[shashki](https://nikitabratskiy.github.io/shashki/)
